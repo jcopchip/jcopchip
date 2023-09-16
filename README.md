@@ -29,5 +29,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jcopchip&show_icons=true&locale=en" alt="jcopchip" /></p>
 
-<p><img align="center" src="[![GitHub Streak](https://streak-stats.demolab.com?user=jcopchip&theme=neon-dark&hide_border=true)](https://git.io/streak-stats)" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=jcopchip&theme=neon-dark&hide_border=true" /></p>
 
